@@ -1,0 +1,7 @@
+ORIG_PN="Font"
+inherit rox
+
+SRC_URI="mirror://sourceforge/rox/${ORIG_PN}-${PV}.tar.gz"
+SRC_DIR=.
+
+ROX_APP=${ORIG_PN}
