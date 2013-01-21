@@ -1,6 +1,12 @@
 ORIG_PN="Font"
 inherit rox
 
+NAME="rox-font"
+VERSION=0.9.2
+RELEASE=2
+CATEGORY="ROX"
+SUMMARY="ROX font settings"
+
 SRC_URI="mirror://sourceforge/rox/${ORIG_PN}-${PV}.tar.gz"
 SRC_DIR=.
 
